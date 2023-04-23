@@ -1,0 +1,10 @@
+.project_section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 40px;
+  }
+h1{
+  color: rgb(58, 2, 72);
+}  
